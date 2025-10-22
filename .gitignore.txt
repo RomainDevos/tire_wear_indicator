@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pth
+*.jpg
+*.png
+*.log
+outputs/
+data_tu/
+subset_coco/
+.cache/
