@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+<folder>IMAGE_BASE</folder>
+<filename>20190429_143220_aug_temoin-90_1.jpg</filename>
+<path>C:/Users/F378787/Documents/Projet_TU_2019/Base/20190429_143220.jpg</path>
+<source>
+<database>Unknown</database>
+</source>
+<size>
+<width>672</width>
+<height>504</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object><name>temoin:90</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>181</xmin><ymin>175</ymin><xmax>316</xmax><ymax>289</ymax></bndbox></object></annotation>

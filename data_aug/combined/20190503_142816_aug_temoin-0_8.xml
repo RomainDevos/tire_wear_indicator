@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+<folder>IMAGE_BASE</folder>
+<filename>20190503_142816_aug_temoin-0_8.jpg</filename>
+<path>C:/Users/F378787/Documents/Projet_TU_2019/Base/20190503_142816.jpg</path>
+<source>
+<database>Unknown</database>
+</source>
+<size>
+<width>768</width>
+<height>576</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object><name>temoin:0</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>200</xmin><ymin>168</ymin><xmax>379</xmax><ymax>321</ymax></bndbox></object></annotation>

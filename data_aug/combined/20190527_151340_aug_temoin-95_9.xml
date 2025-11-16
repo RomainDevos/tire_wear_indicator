@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotation>
+<folder>IMAGE_BASE</folder>
+<filename>20190527_151340_aug_temoin-95_9.jpg</filename>
+<path>C:/Users/F378787/Documents/Projet_TU_2019/Base/20190527_151340.jpg</path>
+<source>
+<database>Unknown</database>
+</source>
+<size>
+<width>576</width>
+<height>768</height>
+<depth>3</depth>
+</size>
+<segmented>0</segmented>
+<object><name>temoin:95</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>193</xmin><ymin>343</ymin><xmax>468</xmax><ymax>599</ymax></bndbox></object></annotation>
