@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 # === PARAMÈTRES ===
 # (chemin de ton dossier augmenté)
-dataset_dir = r"C:\Users\romai\Documents\Michelin\drive\data_tu\data_tu\image_aug"
+dataset_dir = r"C:\Users\romai\Documents\Michelin\drive\data_tu\data_tu\image_balanced"
 
 # === COMPTE DES CLASSES ===
 class_counts = Counter()
@@ -45,7 +45,7 @@ print(f" Nombre de classes uniques : {len(class_counts)}")
 plt.figure(figsize=(8, 4))
 plt.bar(class_counts.keys(), class_counts.values(), color='skyblue')
 plt.xticks(rotation=45, ha='right')
-plt.title("Distribution des classes après augmentation")
+plt.title("Distribution dess classes après augmentation")
 plt.xlabel("Classes")
 plt.ylabel("Nombre d'objets")
 plt.tight_layout()
