@@ -1,0 +1,18 @@
+# Chemin absolu vers le dataset que vous avez uploadé
+path: /kaggle/input/data-tu-yolo/data_tu_yolo
+
+# Chemins relatifs à 'path'
+train: images/train
+val: images/val
+test: images/test
+
+# Noms des classes
+names:
+  0: 'temoin:0'
+  1: 'temoin:25'
+  2: 'temoin:50'
+  3: 'temoin:75'
+  4: 'temoin:80'
+  5: 'temoin:90'
+  6: 'temoin:95'
+  7: 'temoin:100'
